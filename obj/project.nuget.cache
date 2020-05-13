@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+TzH0lWi6PhghR7fz8oFHIO8Igd2Jg+5nldystW5vrFPjeN+kkoscDhgfOzUBVkVUmsscS2kgIP6mUZxYsxtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jordan Polun\\OneDrive - CCSU\\Code\\C#\\DFS Basketball\\DFS Basketball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\microsoft.ml\\1.4.0\\microsoft.ml.1.4.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\microsoft.ml.cpumath\\1.4.0\\microsoft.ml.cpumath.1.4.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\microsoft.ml.dataview\\1.4.0\\microsoft.ml.dataview.1.4.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\microsoft.ml.fasttree\\1.4.0\\microsoft.ml.fasttree.1.4.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jordan Polun\\.nuget\\packages\\system.threading.tasks.dataflow\\4.11.0\\system.threading.tasks.dataflow.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

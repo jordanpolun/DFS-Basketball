@@ -1,0 +1,149 @@
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\LdaNative.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Daily Fantasy 2.exe.config
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Daily Fantasy 2.pdb
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Buffers.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.CodeDom.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Memory.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Buffers.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.CodeDom.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Memory.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.csprojAssemblyReference.cache
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.csproj.CopyComplete
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.pdb
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.dll.config
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.csprojAssemblyReference.cache
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.exe
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.pdb
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\LdaNative.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Data\draft-projections.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.dll.config
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Data\Tournament.csv
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Daily Fantasy 2.exe.config
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Daily Fantasy 2.exe
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Daily Fantasy 2.pdb
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Buffers.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.CodeDom.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Memory.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Buffers.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.CodeDom.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Memory.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\jpolu\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\x64\Debug\Daily Fantasy 2.csproj.CopyComplete
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\LdaNative.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.dll.config
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Daily Fantasy 2.exe.config
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Daily Fantasy 2.pdb
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.Math.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Buffers.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.CodeDom.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Memory.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.Math.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Buffers.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.CodeDom.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Memory.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\obj\x64\Debug\Daily Fantasy 2.csprojAssemblyReference.cache
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\obj\x64\Debug\Daily Fantasy 2.csproj.CopyComplete
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\obj\x64\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\DFS Basketball\obj\x64\Debug\Daily Fantasy 2.pdb

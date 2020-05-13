@@ -1,0 +1,16 @@
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\obj\Debug\Daily Fantasy 2.csprojAssemblyReference.cache
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\bin\Debug\Daily Fantasy 2.exe.config
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\bin\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\bin\Debug\Daily Fantasy 2.pdb
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\obj\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\obj\Debug\Daily Fantasy 2.pdb
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\bin\Debug\Data\draft-projections.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\Daily Fantasy 2\bin\Debug\Data\Tournament.csv
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\Debug\Data\draft-projections.xml
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\Debug\Data\Tournament.csv
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\Debug\Daily Fantasy 2.exe.config
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\bin\Debug\Daily Fantasy 2.pdb
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\Debug\Daily Fantasy 2.csprojAssemblyReference.cache
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\Debug\Daily Fantasy 2.exe
+C:\Users\Jordan Polun\OneDrive - CCSU\Code\C#\Daily Fantasy 2\obj\Debug\Daily Fantasy 2.pdb
